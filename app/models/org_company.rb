@@ -1,0 +1,2 @@
+class OrgCompany < ApplicationRecord
+end
